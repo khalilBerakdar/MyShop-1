@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Contracts\IBasket.cs" />
+    <Compile Include="Contracts\IBasketService.cs" />
     <Compile Include="Contracts\IRepository.cs" />
     <Compile Include="Models\BaseEntity.cs" />
     <Compile Include="Models\Basket.cs" />
